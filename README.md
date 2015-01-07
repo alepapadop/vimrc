@@ -40,7 +40,7 @@ in order to complete the YouCompleteMe plugin installation
 the script will run the compilation of the plugin code.
 
 There is also a cheat sheet with some vim commands for
-beginners and also some custom shortcats. The sheet sheet
+beginners and also some custom shortcats. The cheat sheet
 files are the "vim_cheat_sheet.odt" and "vim_cheat_sheet.pdf"
 files.
 
